@@ -68,11 +68,11 @@ a{
 /*--responsive for mobile phone--*/
 @media(max-width:720px){
 	.box{
-		width: 250px;
+		width: 150px;
 		height: auto;
 	}
 	.model{
-		height:250px;
+		height:150px;
 	}
 	.details p{
 		font-size: 16px;
